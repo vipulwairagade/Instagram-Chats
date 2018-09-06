@@ -1,0 +1,26 @@
+{
+    "participants": ["vipulwairagade", "TestUser"],
+    "conversation": [{
+        "sender": "vipulwairagade",
+        "created_at": "2017-04-10T14:55:40.571522+00:00",
+        "text": "This is a Test File"
+    }, {
+        "sender": "vipulwairagade",
+        "created_at": "2017-04-10T14:55:33.695163+00:00",
+        "text": "This conversation is converted to HTML file"
+    }, {
+        "sender": "TestUser",
+        "created_at": "2017-04-10T14:55:21.361759+00:00",
+        "text": "You can use this to convert Instagram messages to HTML"
+    }, {
+        "sender": "vipulwairagade",
+        "created_at": "2017-04-10T14:54:55.008386+00:00",
+        "text": "You can read chats hassle free"
+    }, {
+        "sender": "vipulwairagade",
+        "created_at": "2017-04-10T14:54:55.008385+00:00",
+        "media_owner": "TestUser",
+        "media_share_caption": "Check out my Profile",
+        "media_share_url": "https://www.github.com/vipulwairagade"
+    }]
+}
